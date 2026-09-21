@@ -9,22 +9,30 @@ Learning SQL from scratch — practicing daily with SQLite.
 | Day | Topics | Status |
 |-----|--------|--------|
 | Day 1 | CREATE, INSERT, SELECT, WHERE, ORDER BY, Aggregate, UPDATE, DELETE | ✅ |
+| Day 2 | LIMIT, LIKE, IN, BETWEEN, GROUP BY, HAVING | ✅ |
 
 ---
 
 ## Topics Covered
 
 ### Day 1 — SQL Basics
-- Database ra Table concept
 - CREATE TABLE
 - INSERT INTO
-- SELECT — all columns and specific columns
+- SELECT — all columns ra specific columns
 - WHERE — filter with conditions
 - AND, OR operators
 - ORDER BY ASC / DESC
 - Aggregate — COUNT, AVG, MAX, MIN
-- UPDATE — data modify 
-- DELETE — data remove
+- UPDATE — data modify garne
+- DELETE — data hatauने
+
+### Day 2 — SQL Intermediate
+- LIMIT — top N rows matra
+- LIKE — pattern search
+- IN — multiple values filter
+- BETWEEN — range filter
+- GROUP BY — category wise analysis
+- HAVING — GROUP BY ko filter
 
 ---
 
