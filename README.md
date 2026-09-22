@@ -10,6 +10,7 @@ Learning SQL from scratch — practicing daily with SQLite.
 |-----|--------|--------|
 | Day 1 | CREATE, INSERT, SELECT, WHERE, ORDER BY, Aggregate, UPDATE, DELETE | ✅ |
 | Day 2 | LIMIT, LIKE, IN, BETWEEN, GROUP BY, HAVING | ✅ |
+| Day 3 | INNER JOIN, LEFT JOIN, Alias, JOIN + WHERE, JOIN + ORDER BY, JOIN + GROUP BY | ✅ |
 
 ---
 
@@ -33,6 +34,14 @@ Learning SQL from scratch — practicing daily with SQLite.
 - BETWEEN — range filter
 - GROUP BY — category wise analysis
 - HAVING — GROUP BY ko filter
+
+### Day 3 — JOINS
+- INNER JOIN — duitai table ma match bhako matra
+- LEFT JOIN — left table sabai + right NULL bhaye pani
+- Alias — short name for tables
+- JOIN + WHERE
+- JOIN + ORDER BY
+- JOIN + GROUP BY
 
 ---
 
