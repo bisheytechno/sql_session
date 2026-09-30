@@ -11,6 +11,7 @@ Learning SQL from scratch — practicing daily with SQLite.
 | Day 1 | CREATE, INSERT, SELECT, WHERE, ORDER BY, Aggregate, UPDATE, DELETE | ✅ |
 | Day 2 | LIMIT, LIKE, IN, BETWEEN, GROUP BY, HAVING | ✅ |
 | Day 3 | INNER JOIN, LEFT JOIN, Alias, JOIN + WHERE, JOIN + ORDER BY, JOIN + GROUP BY | ✅ |
+| Day 4 | Python + SQLite — sqlite3 module | ✅ |
 
 ---
 
@@ -42,6 +43,17 @@ Learning SQL from scratch — practicing daily with SQLite.
 - JOIN + WHERE
 - JOIN + ORDER BY
 - JOIN + GROUP BY
+
+### Day 4 — Python + SQLite
+- sqlite3 module
+- connect() — database connect garne
+- cursor() — queries run garne
+- execute() — single query
+- executemany() — multiple rows insert
+- fetchall() — sabai rows fetch
+- commit() — changes save garne
+- close() — connection close garne
+
 
 ---
 
